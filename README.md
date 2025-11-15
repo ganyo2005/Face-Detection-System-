@@ -39,3 +39,16 @@ A directory of training images is required for the program to train or retrain c
 ---
 
 ## 📁 **Project Structure**
+
+project/
+│── train.py
+│── detect.py
+│── features.npy
+│── labels.npy
+│── haarcascade_frontalface_default.xml
+│── images/
+│ ├── Mahama/
+│ ├── Akufo-Addo/
+│ ├── Trump/
+│ └── Obama/
+│── README.md
